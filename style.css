@@ -1,6 +1,3 @@
-.header{
-    
-}
 #verbs-container{
     margin: 0 35%;
 
@@ -21,7 +18,7 @@
 
 
  #next{
-    margin-top: 7rem;
+    margin-top: 8rem;
     cursor: pointer;
     color: green;
  }

@@ -14,3 +14,17 @@ const verbsContainer = document.getElementById("verbs-container");
 
 const numberOfVerbs = verbs.length;
 console.log(numberOfVerbs);
+
+let answerRoulette = [0,1,1,1];
+let everyNumberOfVerbs = [];
+let rigthAnswer;
+let allRigthAnswers;
+
+next.addEventListener('click', function(){
+    ponerVerbo();
+    next.style.display = 'none';
+})
+
+function ponerVerbo(){
+    showVerb.innerHTML = "Deposita 200 bitcoins para jugar"
+}
