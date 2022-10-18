@@ -1,10 +1,65 @@
-const verbs [
-    'Open',
-    'Close'
-
-]
-const verbos [
-    'Abrir',
-    'Cerrar'
-    
-]
+const verbs = [
+  'Announce',
+  'Answer',
+  'Arrive',
+  'Attend',
+  'Bring',
+  'Carry',
+  'Cross',
+  'Departure',
+  'Disagree',
+  'Dry',
+  'Encourage',
+  'Enjoy',
+  'Feed',
+  'Grow',
+  'Lay',
+  'Pull',
+  'Hang',
+  'Hold',
+  'Play',
+  'Protect', 
+  'Pull',
+  'Run',
+  'Select', 
+  'Send',  
+  'Shoot',
+  'Solve',
+  'Steal',
+  'Throw',
+  'Type', 
+  'Update'
+];
+  
+const verbos = [
+  'Anunciar',
+  'Contestar',
+  'LLegar',
+  'Asistir',
+  'Traer',
+  'Cargar',
+  'Cruzar',
+  'Partida',
+  'Desacuerdo',
+  'Secar',
+  'Motivar',
+  'Disfrutar',
+  'Alimentar',
+  'Crecer',
+  'Poner',
+  'Jalar',
+  'Colgar',
+  'Sostener',
+  'Jugar',
+  'Proteger',
+  'Jalar',
+  'Correr',
+  'Selecionar',
+  'Mandar',
+  'Disparar',
+  'Resolver',
+  'Robar',
+  'Tirar',
+  'Teclear',
+  'Actualizar'
+  ];
